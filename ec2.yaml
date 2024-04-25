@@ -22,5 +22,5 @@
   #       state: absent
   # - name: Terminate aws instance
   #   ec2_instance:
-  #       state: 'absent'
+  #       state: 'absent' 
   #       instance_ids: '*'
